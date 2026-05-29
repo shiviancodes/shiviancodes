@@ -6,7 +6,7 @@
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,php&perline=6" alt="ml stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,php,react,js&perline=8" alt="full stack" />
 
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions&perline=5" alt="cloud devops" />
 
