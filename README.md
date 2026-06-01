@@ -10,7 +10,7 @@
 
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions&perline=5" alt="cloud devops" />
 
-  <br>
+  <br> 
 
   <a href="mailto:shiviannaidoo@gmail.com"><img src="https://img.shields.io/badge/-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/shiviancodes"><img src="https://img.shields.io/badge/-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
