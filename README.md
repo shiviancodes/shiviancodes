@@ -14,7 +14,7 @@
 </p>
 
 <a href="https://www.credly.com/badges/1b73cd76-c646-4b57-8a54-dd2db9ad1852/public_url" target="_blank">
-  <img src="https://github.com/user-attachments/assets/98c0514e-19d2-4946-b883-98a4f10fc018" width="110" alt="AI Skills Fest 2026" />
+  <img src="https://github.com/user-attachments/assets/98c0514e-19d2-4946-b883-98a4f10fc018" width="160" alt="AI Skills Fest 2026" />
 </a>
 
 </div>
