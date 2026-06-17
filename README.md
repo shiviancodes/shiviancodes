@@ -7,10 +7,13 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,php,react,js,aws,docker,kubernetes,terraform,githubactions&perline=13" alt="stack" />
 </p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shiviancodes&show_icons=true&hide_rank=true&hide=contribs,issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=586069&custom_title=GitHub%20Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiviancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=586069&hide=html,css" />
+<p>
+  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api?username=shiviancodes&show_icons=true&hide_rank=true&hide=contribs,issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=586069&custom_title=GitHub%20Stats" />
+  &nbsp;&nbsp;
+  <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiviancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=586069&hide=html,css" />
+</p>
 
-<br><br>
+<br>
 
 <p>
   <a href="mailto:shiviannaidoo@gmail.com"><img src="https://img.shields.io/badge/-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
