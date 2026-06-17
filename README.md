@@ -13,7 +13,6 @@
   <img align="top" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiviancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=586069&hide=html,css" />
 </p>
 
-<br>
 
 <a href="https://www.credly.com/badges/1b73cd76-c646-4b57-8a54-dd2db9ad1852/public_url" target="_blank">
   <img src="https://github.com/user-attachments/assets/98c0514e-19d2-4946-b883-98a4f10fc018" width="160" alt="AI Skills Fest 2026" />
