@@ -15,14 +15,18 @@
 
 <br>
 
+<a href="https://www.credly.com/badges/1b73cd76-c646-4b57-8a54-dd2db9ad1852/public_url" target="_blank">
+  <img src="https://github.com/user-attachments/assets/98c0514e-19d2-4946-b883-98a4f10fc018" width="160" alt="AI Skills Fest 2026" />
+</a>
+<br><br>
+
+
 <p>
   <a href="mailto:shiviannaidoo@gmail.com"><img src="https://img.shields.io/badge/-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/shiviannaidoo/"><img src="https://custom-icon-badges.demolab.com/badge/-7AA2F7?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="linkedin" /></a>
   <a href="https://x.com/shiviancodes"><img src="https://img.shields.io/badge/-7AA2F7?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
 </p>
 
-<a href="https://www.credly.com/badges/1b73cd76-c646-4b57-8a54-dd2db9ad1852/public_url" target="_blank">
-  <img src="https://github.com/user-attachments/assets/98c0514e-19d2-4946-b883-98a4f10fc018" width="160" alt="AI Skills Fest 2026" />
-</a>
+
 
 </div>
