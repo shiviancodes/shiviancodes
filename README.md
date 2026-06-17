@@ -7,7 +7,8 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,php,react,js,aws,docker,kubernetes,terraform,githubactions&perline=13" alt="stack" />
 </p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shiviancodes&show_icons=true&hide_rank=true&hide=contribs,issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiviancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&hide=html,css" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shiviancodes&show_icons=true&hide_rank=true&hide=contribs,issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=586069&custom_title=GitHub%20Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiviancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=586069&hide=html,css" />
 
 <br><br>
 
